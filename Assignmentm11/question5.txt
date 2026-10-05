@@ -1,0 +1,11 @@
+What is a lambda function? When is it useful? 
+
+Answer
+------
+A lambda function is a small, anonymous function written in a single line using the lambda keyword.
+
+Syntax
+-----
+lambda arguments: expression
+
+eg:
