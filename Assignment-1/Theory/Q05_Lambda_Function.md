@@ -1,14 +1,22 @@
-What is a lambda function? When is it useful? 
+# Question 4
 
-Answer
-------
+What is a lambda function? When is it useful?
+
+
+## Answer
+
 A lambda function is a small, anonymous function written in a single line using the lambda keyword.
 
-Syntax
------
-lambda arguments: expression
+**Syntax**
 
-eg:
+```python
+lambda arguments: expression
+```
+
+**Example:**
+
+```python
 square = lambda x: x * x
 
 print(square(5))
+```
