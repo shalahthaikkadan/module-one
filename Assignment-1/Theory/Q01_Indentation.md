@@ -1,14 +1,18 @@
-What is indentation in Python, and why is it important? 
+# Question 1
 
-answer
--------
-indentation means the space or tabs at the beginning of a line of a python code .python uses indentation to define a block of code.
+What is indentation in Python, and why is it important?
 
-Unlike languages such as C or Java, Python does not use { } to define blocks.
+## Answer
 
+Indentation means the spaces or tabs at the beginning of a line of Python code.
+Python uses indentation to define a block of code.
 
-eg:if age >= 18:
+Unlike languages such as C or Java, Python does not use `{ }` to define
+blocks of code.
+
+## Example
+
+```python
+if age >= 18:
     print("You are an adult")
     print("You can vote")
-
-The space print() is the indentation
