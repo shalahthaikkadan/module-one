@@ -2,17 +2,28 @@
 
 Explain the difference between syntax errors and runtime errors.
 
+
 ## Answer
 
-### Syntax Error
+### Syntax error
 
-A syntax error is an error in the way the code is written.
+- Syntax error are code writing errors.
 
-- The program cannot start execution until the syntax error is corrected.
-- It usually happens when Python's rules for writing code are not followed.
+- Program cannot start execution.
 
-### Example
+**Example: semicolon is missing**
 
 ```python
 if x > 5
     print(x)
+
+### Runtime error
+
+- Runtime errors occur during program execution.
+
+- Program starts but stops when the error occurs.
+
+**Example: divide by zero**
+
+```python
+x = 10 / 0
