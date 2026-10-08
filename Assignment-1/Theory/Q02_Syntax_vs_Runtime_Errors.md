@@ -16,6 +16,7 @@ Explain the difference between syntax errors and runtime errors.
 ```python
 if x > 5
     print(x)
+```
 
 ### Runtime error
 
@@ -27,3 +28,4 @@ if x > 5
 
 ```python
 x = 10 / 0
+```
