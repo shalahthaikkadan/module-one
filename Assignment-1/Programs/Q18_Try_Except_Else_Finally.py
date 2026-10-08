@@ -1,3 +1,5 @@
+# Write a program using try, except, else and finally together. 
+
 number=int(input("Enter a number"))
 try:
     result=10/number

@@ -1,5 +1,9 @@
-x=int(input("Enter the number: "))
-y=int(input("Enter the number: "))
+#Write a python program to create a simple calculator using functions.  
+
+
+
+x=float(input("Enter the number: "))
+y=float(input("Enter the number: "))
 opr=input("Enter the operator: ")
 
 def addition(x,y):

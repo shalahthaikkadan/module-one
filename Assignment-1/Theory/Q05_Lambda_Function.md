@@ -9,3 +9,6 @@ Syntax
 lambda arguments: expression
 
 eg:
+square = lambda x: x * x
+
+print(square(5))
