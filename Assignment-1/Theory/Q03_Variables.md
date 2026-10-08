@@ -1,12 +1,21 @@
-How do you assign a value to a variable? 
+# Question 1
 
-Answers
--------
+How do you assign a value to a variable?
+
+
+## Answer
 
 In Python, you assign a value to a variable using the = operator.
 
-eg: name = "Shalah"
-age = 22
+**Example:**
 
-Syntax
+```python
+name = "Shalah"
+age = 22
+```
+
+**Syntax**
+
+```python
 variable = value
+```
