@@ -12,7 +12,7 @@ This repository contains my **complete educational work from Module One at Skill
 
 It serves as a centralized collection of everything I learned and practiced during this stage of my training. The repository includes programming concepts, exercises, assignments, practice problems, and other learning activities.
 
-This repository represents my **learning progress and technical development** throughout the module.
+This repository represents my **learning progress and technical development** throughout the module..
 
 ## 🎓 Education
 
