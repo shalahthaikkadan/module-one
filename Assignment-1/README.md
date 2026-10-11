@@ -99,7 +99,7 @@ Write a program using try, except, else and finally together.
 
 ## 📝 Exercise 2
 
-The Exercise 2 section contains questions on Artificial Intelligence and Machine Learning.
+The Exercise 2 pdf section contains questions on Artificial Intelligence and Machine Learning.
 
 **Question 1**
 How does AI differ from traditional programming?
