@@ -1,0 +1,31 @@
+Python Basics — Short Notes
+1. Python is a high-level, interpreted programming language.
+2. Python was created by Guido van Rossum.
+3. Python was first released in 1991.
+4. Python uses indentation to define code blocks.
+5. Python is case-sensitive.
+6. Variables store data values.
+7. print() displays output.
+8. input() accepts user input.
+9. Comments begin with #.
+10. Python is dynamically typed.
+11. if, elif, and else are used for decision-making.
+12. for and while are used for loops.
+13. break terminates a loop.
+14. continue skips the current iteration.
+15. pass is a placeholder statement.
+16. A list is ordered and mutable.
+17. A tuple is ordered and immutable.
+18. A set stores unique elements.
+19. A dictionary stores key-value pairs.
+20. A function is defined using def.
+21. return sends a value back from a function.
+22. A lambda is a small anonymous function.
+23. try and except handle exceptions.
+24. A module is a Python file containing reusable code.
+25. A class is a blueprint for creating objects.
+26. An object is an instance of a class.
+27. == compares two values.
+28. = assigns a value to a variable.
+29. % returns the remainder after division.
+30. range() generates a sequence of numbers.
